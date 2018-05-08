@@ -13,20 +13,22 @@ import smsme.bissani.smsme.R;
 
 public class MainActivity extends AppCompatActivity {
 
-    private Button next;
+    //private Button next;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        next = (Button) findViewById(R.id.button3);
+        //next = (Button) findViewById(R.id.button3);
 
+        /*
         next.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, LoginActivity.class));
+                startActivity(new Intent(MainActivity.this, ValidatorActivity.class));
             }
         });
+        */
     }
 }
