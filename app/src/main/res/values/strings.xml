@@ -5,7 +5,10 @@
     <string name="your_number">Seu número</string>
     <string name="validation_code">Código</string>
     <string name="initial_message">O SMSme enviará um SMS para verificar o seu número de telefone. Complete o cadastro abaixo para prosseguir.</string>
-    <string name="validator_message">Você recebeu um SMS com o código para validação do seu número, insira-o abaixo:</string>
+    <string name="status_code_sent">Você recebeu um SMS com o código para validação do seu número, insira-o abaixo:</string>
+    <string name="status_verification_failed">Verificação falhou!</string>
+    <string name="status_verification_succeeded">Verificação efetuada com sucesso!</string>
+    <string name="instant_validation">Bla bla bla!</string>
     <string name="sign_in">Cadastrar</string>
     <string name="validate">Validar</string>
 </resources>
