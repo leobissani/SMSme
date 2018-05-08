@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SMSme</string>
+    <string name="insert_name">Seu nome</string>
+    <string name="ddi">55</string>
+    <string name="your_number">Seu número</string>
+    <string name="initial_message">O SMSme enviará um SMS para verificar o seu número de telefone. Complete o cadastro abaixo para prosseguir.</string>
+    <string name="sign_in">Cadastrar</string>
 </resources>
